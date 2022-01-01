@@ -8,8 +8,8 @@
 #include "SparkFunBME280.h"
 
 // WiFi Details
-const char* ssid = "BELL864";
-const char* password = "2C6223E6";
+const char* ssid = "";
+const char* password = "";
 const char* ntpServer = "pool.ntp.org";
 
 // MQTT Broker Details
